@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721079618860",
+    "project_id": "meesho-firebase",
+    "storage_bucket": "meesho-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721079618860:android:30a0b47191529b6c8bb089",
+        "android_client_info": {
+          "package_name": "com.example.meeshoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721079618860-8unsfaak0tglqnnmqkv04mlii450ummm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meeshoapp",
+            "certificate_hash": "6a7a43089ba0da4cc3c6f66c6ba7ded75b54a318"
+          }
+        },
+        {
+          "client_id": "721079618860-9b73o23rfnhlbc6l1protm3csk1m7f88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SGOYR43y_OVZ5CnUbAA13vFe0KUqM1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721079618860-9b73o23rfnhlbc6l1protm3csk1m7f88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

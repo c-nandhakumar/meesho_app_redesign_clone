@@ -1,0 +1,176 @@
+[
+    {
+     "productCategoryId": 1,
+     "category" : "Ladies",
+     "clothing" : "Cardigans & Sweaters",
+     "categoryImg" :"https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/categories%2Fladiessweaters.png?alt=media&token=e06be171-47a3-46b4-b28a-7ea9b1e397aa",
+     "productList" : [
+        {
+            "productImages" : [
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w1%2Fhmgoepprod.jpeg?alt=media&token=e9ceed12-0ec4-45fb-8f81-b7bd65ad70d2",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w1%2Fhmgoepprod%20(1).jpeg?alt=media&token=0b31a52a-bed9-48c0-9e20-7c18388bfb3e",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w1%2Fhmgoepprod%20(2).jpeg?alt=media&token=5548d265-edde-447a-b0e1-fcec919295eb",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w1%2Fhmgoepprod%20(3).jpeg?alt=media&token=dbcdf0db-a0ea-490c-bae6-62b003afdf9d",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w1%2Fhmgoepprod%20(4).jpeg?alt=media&token=0e70f1ba-d2fa-4b3b-91a4-0cf843290a5c"],
+            "productId" : "c1w1",
+            "productTitle" : "Polo-neck jumper",
+            "productDescription" : "Jumper in a soft knit containing some wool. Relaxed fit with a ribbed polo neck, dropped shoulders, long, wide sleeves with close-fitting cuffs, and a straight hem. Ribbing at the cuffs and hem.",
+            "productPrice" : 2999.00,
+            "fit": "Relaxed Fit",
+            "composition" : "Polyester 74%, Acrylic 10%, Wool 8%, Polyamide 8%"
+            
+        },
+        {
+            "productImages" : [
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w2%2Fhmgoepprod.jpeg?alt=media&token=10b4e6da-595c-4cb2-ab07-c280cd7f7f99",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w2%2Fhmgoepprod%20(1).jpeg?alt=media&token=db1a97df-3e79-498d-9672-26ab9dc81fa7",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w2%2Fhmgoepprod%20(2).jpeg?alt=media&token=5d036367-3c0e-47b9-8fec-cac526450f5c",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w2%2Fhmgoepprod%20(3).jpeg?alt=media&token=1345425b-aea8-4f0f-ad7a-b338b279869b",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w2%2Fhmgoepprod%20(4).jpeg?alt=media&token=441b1501-cf9f-4911-944b-f7aa5b926cc5"],
+            "productId" : "c1w2",
+            "productTitle" : "Off-the-shoulder bodycon dress",
+            "productDescription" : "Short, fitted, off-the-shoulder dress in a soft rib knit containing some wool. Foldover at the top, long, raglan balloon sleeves, and a straight hem.",
+            "productPrice" : 2299.00,
+            "fit": "Relaxed Fit",
+            "composition" : "Polyester 52%, Acrylic 41%, Wool 4%, Elastane 3%"
+            
+        },
+        {
+            "productImages" : [
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w3%2Fhmgoepprod.jpeg?alt=media&token=a156ca82-997e-4725-84e4-5c1b8f9e89ac",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w3%2Fhmgoepprod%20(1).jpeg?alt=media&token=7f397b4f-55df-466a-99b7-27056cc3a750",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w3%2Fhmgoepprod%20(2).jpeg?alt=media&token=a153be41-389d-4349-9df9-aa943d968a69",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w3%2Fhmgoepprod%20(3).jpeg?alt=media&token=b66ea0b8-2632-42bf-841f-6335976d5768",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w3%2Fhmgoepprod%20(4).jpeg?alt=media&token=0a52063d-728d-474e-a674-cbc6353d0d33"],
+            "productId" : "c1w3",
+            "productTitle" : "Jacquard-knit jumper",
+            "productDescription" : "Jumper in a soft jacquard knit. Relaxed fit with a round neckline, low dropped shoulders and long sleeves. Ribbing around the neckline, cuffs and hem.",
+            "productPrice" : 2999.00,
+            "fit": "Relaxed Fit",
+            "composition" : "Polyester 50%, Acrylic 40%, Polyamide 10%            "
+            
+        },
+        {
+            "productImages" : [
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w4%2Fhmgoepprod.jpeg?alt=media&token=9b7ef2af-c33d-41b3-85a8-faf8114005d3",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w4%2Fhmgoepprod%20(1).jpeg?alt=media&token=449bc198-0a46-45d8-80f2-3048732b5b12",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w4%2Fhmgoepprod%20(2).jpeg?alt=media&token=301edbd8-bafd-4918-8a85-b95b5df358ab",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w4%2Fhmgoepprod%20(3).jpeg?alt=media&token=3df0b237-baa7-4969-8273-019e56cf4e18",
+            "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/women%2Fproduct-w4%2Fhmgoepprod%20(4).jpeg?alt=media&token=8aa19765-1556-4661-9a37-3e2d4304d38e"],
+            "productId" : "c1w4",
+            "productTitle" : "Zip-top cropped top",
+            "productDescription" : "Cropped, fitted top in ribbed cotton jersey with a stand-up collar, zip at the top, long sleeves and a straight hem.",
+            "productPrice" : 999.00,
+            "fit": "Fitted",
+            "composition" : "Cotton 95%, Elastane 5%"
+            
+        }
+     ]
+    },
+    {
+        "productCategoryId": 2,
+        "category" : "Men",
+        "clothing" : "Hoodies & Sweatshirts",
+        "categoryImg":"https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/categories%2Fmenshirts.png?alt=media&token=e05c5de4-2836-415c-8ea2-fee9a0a14c42",
+        "productList" : [
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m1%2Fhmgoepprod.jpeg?alt=media&token=757d82c7-781b-4a70-a256-7c2dd25ac1dc",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m1%2Fhmgoepprod%20(1).jpeg?alt=media&token=d4174cba-0f78-4621-b432-b9867f807685",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m1%2Fhmgoepprod%20(2).jpeg?alt=media&token=55aa60b4-8284-4c65-bde3-307af4673f2e",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m1%2Fhmgoepprod%20(3).jpeg?alt=media&token=5ee4ad4e-b3db-48fb-a3ed-aa10681aa9c3",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m1%2Fhmgoepprod%20(4).jpeg?alt=media&token=9881a9f5-711f-49bf-abe7-12e490a1e21c"],
+               "productId" : "c2m1",
+               "productTitle" : "Regular Fit Oxford shirt",
+               "productDescription" : "Regular-fit shirt in Oxford cotton with a button-down collar, classic front, yoke at the back and an open chest pocket. Long sleeves with buttoned cuffs and a sleeve placket with a link button. Gently rounded hem.",
+               "productPrice" : 1499.00,
+               "fit": "Relaxed Fit",
+               "composition" : "Cotton 100%"
+               
+           },
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m2%2Fhmgoepprod.jpeg?alt=media&token=d45e18c0-e806-4e48-951d-596a37d200e7",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m2%2Fhmgoepprod%20(1).jpeg?alt=media&token=102d4c8a-0978-46ce-a1d1-efe94934d195",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m2%2Fhmgoepprod%20(2).jpeg?alt=media&token=44f571ac-40eb-43b5-8f87-2a49037ab288",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m2%2Fhmgoepprod%20(3).jpeg?alt=media&token=3c5ecaa5-6a5a-4f56-a24a-17ce035b6823",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m2%2Fhmgoepprod%20(4).jpeg?alt=media&token=f6e24c03-7031-4de8-8d9d-2e4c3544dc68"],
+               "productId" : "c2m2",
+               "productTitle" : "Relaxed Fit Lyocell resort shirt",
+               "productDescription" : "Short-sleeved shirt in a patterned lyocell weave with a resort collar, French front and yoke at the back. Relaxed fit with flap chest pockets, and a straight-cut hem with slits in the sides.",
+               "productPrice" : 1499.00,
+               "fit": "Relaxed Fit",
+               "composition" : "Lyocell 100%"
+               
+           },
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m3%2Fhmgoepprod.jpeg?alt=media&token=3f4128b2-4b96-462d-8682-a669b26d3e2c",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m3%2Fhmgoepprod%20(1).jpeg?alt=media&token=22b173da-1fd0-4490-bc8a-0892c5da6f2e",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m3%2Fhmgoepprod%20(2).jpeg?alt=media&token=75c332c5-92f9-4f22-8237-b9777dedab0e",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m3%2Fhmgoepprod%20(3).jpeg?alt=media&token=b01a8c00-fa1b-44c9-b34f-9cff28522649",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m3%2Fhmgoepprod%20(4).jpeg?alt=media&token=84d32983-87c4-4f43-ace4-e485152a617d"],
+               "productId" : "c2m3",
+               "productTitle" : "Cotton twill shirt",
+               "productDescription" : "Shirt in soft cotton twill with a turn-down collar, classic front and yoke at the back. Relaxed fit with an open chest pocket, long sleeves with buttoned cuffs and a sleeve placket with a link button, and a gently rounded hem.",
+               "productPrice" : 1999.00,
+               "fit": "Relaxed Fit",
+               "composition" : "Cotton 100%"
+               
+           },
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m4%2Fhmgoepprod.jpeg?alt=media&token=979189e0-7a72-46f6-baea-6c8e8cd8cccf",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m4%2Fhmgoepprod%20(1).jpeg?alt=media&token=1c8b9118-0583-4239-bd74-49c8244537d5",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m4%2Fhmgoepprod%20(2).jpeg?alt=media&token=9c42d4f9-5afa-4cf8-8417-25b4d176a1c2",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m4%2Fhmgoepprod%20(3).jpeg?alt=media&token=043df6b1-2df2-4ee4-ad98-944c7d096a48",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/men%2Fproduct-m4%2Fhmgoepprod%20(4).jpeg?alt=media&token=d4060b5e-8bf1-4028-903c-c9ccf73f74f9"],
+               "productId" : "c2m4",
+               "productTitle" : "Regular Fit Lyocell long-sleeved shirt",
+               "productDescription" : "Short-sleeved shirt in a lyocell weave with a turn-down collar, French front and straight-cut hem with a slit in each side.",
+               "productPrice" : 1499.00,
+               "fit": "Relaxed Fit",
+               "composition" : "Lyocell 100%"
+               
+           }
+        ]
+       },
+       {
+        "productCategoryId": 3,
+        "category" : "Kids",
+        "clothing" : "New Arrivals",
+        "categoryImg" : "",
+        "productList" : [
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k1%2Fhmgoepprod.jpeg?alt=media&token=1b1f9b82-3119-451c-9550-ec49382e7096",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k1%2Fhmgoepprod%20(1).jpeg?alt=media&token=82ca9f46-4c69-4020-b091-c3f8cd8d7fb9",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k1%2Fhmgoepprod%20(2).jpeg?alt=media&token=0196596a-4021-48d2-87c4-cd4510f9b111",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k1%2Fhmgoepprod%20(3).jpeg?alt=media&token=094c99ce-895a-4052-9468-c7e9ab7fd0fb",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k1%2Fhmgoepprod%20(4).jpeg?alt=media&token=6b52fd7f-fbcc-4bf3-b1e6-da2a10fb7805"],
+               "productId" : "c3k1",
+               "productTitle" : "Oversized sweatshirt",
+               "productDescription" : "Oversized top in sweatshirt fabric made from a cotton blend with a soft brushed inside. Dropped shoulders, long balloon sleeves and ribbing around the cuffs and hem.",
+               "productPrice" : 1299.00,
+               "fit": "Oversized",
+               "composition" : "Cotton 60%, Polyester 40%"
+               
+           },
+           {
+               "productImages" : [
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k2%2Fhmgoepprod.jpeg?alt=media&token=ca414825-e80b-4064-9af3-604453927510",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k2%2Fhmgoepprod%20(1).jpeg?alt=media&token=e6c06731-431c-4501-9d85-152ca159c310",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k2%2Fhmgoepprod%20(2).jpeg?alt=media&token=26bdba79-db13-4fa8-a5f1-df2fa935f63c",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k2%2Fhmgoepprod%20(3).jpeg?alt=media&token=fb45ab90-c686-4a66-a8e1-1365c112b95f",
+               "https://firebasestorage.googleapis.com/v0/b/meesho-firebase.appspot.com/o/kids%2Fproduct-k2%2Fhmgoepprod%20(4).jpeg?alt=media&token=1b99f4e2-9e23-4461-9adb-03240bcb7ee6"],
+               "productId" : "c3k2",
+               "productTitle" : "Cotton jersey top",
+               "productDescription" : "Straight-cut top in soft cotton jersey with a ribbed trim around the neckline and long sleeves.",
+               "productPrice" : 399.00,
+               "fit": "Relaxed Fit",
+               "composition" : "Cotton 100%"
+               
+           }
+        ]
+       }
+]
